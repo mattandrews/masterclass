@@ -258,3 +258,13 @@ button.upload {
 .ad a {
     color: #5BA7C5
 }
+
+.quick-links {
+    list-style-type: disc;
+    list-style-position: inside;
+    font-size: 12px;
+}
+
+.quick-links li {
+    margin-bottom: 5px;
+}
